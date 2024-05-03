@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">My Application3</string>
+    <string name="play">Start</string>
+
+    <string name="title_activity_view">ActivityView</string>
+    <string name="act1">Activity 1</string>
+    <string name="act2">Activity 2</string>
+    <string name="act3">Activity 3</string>
+    <string name="act4">Activity 4</string>
+    <string name="act5">Activity 5</string>
+    <string name="act6">Activity 6</string>
+
+
+    <string name="title_activity_1">Activity1</string>
+    <string name="title_jetpack_compose_tutorial">Jetpack Compose tutorial</string>
+    <string name="compose_short_desc">Jetpack Compose is a modern toolkit for building native Android UI. Compose simplifies and accelerates UI development on Android with less code, powerful tools, and intuitive Kotlin APIs.</string>
+    <string name="compose_long_desc">In this tutorial, you build a simple UI component with declarative functions. You call Compose functions to say what elements you want and the Compose compiler does the rest. Compose is built around Composable functions. These functions let you define your app\'s UI programmatically because they let you describe how it should look and provide data dependencies, rather than focus on the process of the UI\'s construction, such as initializing an element and then attaching it to a parent. To create a Composable function, you add the @Composable annotation to the function name.</string>
+
+
+    <string name="title_activity_2">Activity2</string>
+    <string name="all_task_completed">All tasks completed</string>
+    <string name="nice_work">Nice work!</string>
+
+    <string name="title_activity_3">Activity3</string>
+    <string name="first_title">Text composable</string>
+    <string name="first_description">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="second_title">Image composable</string>
+    <string name="second_description">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="third_title">Row composable</string>
+    <string name="third_description">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="fourth_title">Column composable</string>
+    <string name="fourth_description">A layout composable that places its children in a vertical sequence.</string>
+
+    <string name="title_activity_4">Activity4</string>
+    <string name="roll">Roll</string>
+
+    <string name="title_activity_5">Activity5</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+
+    <string name="title_activity_6">Activity6</string>
+    <string name="architecture">Architecture</string>
+    <string name="automotive">Automotive</string>
+    <string name="biology">Biology</string>
+    <string name="crafts">Crafts</string>
+    <string name="business">Business</string>
+    <string name="culinary">Culinary</string>
+    <string name="design">Design</string>
+    <string name="ecology">Ecology</string>
+    <string name="engineering">Engineering</string>
+    <string name="fashion">Fashion</string>
+    <string name="finance">Finance</string>
+    <string name="film">Film</string>
+    <string name="gaming">Gaming</string>
+    <string name="geology">Geology</string>
+    <string name="drawing">Drawing</string>
+    <string name="history">History</string>
+    <string name="journalism">Journalism</string>
+    <string name="law">Law</string>
+    <string name="lifestyle">Lifestyle</string>
+    <string name="music">Music</string>
+    <string name="painting">Painting</string>
+    <string name="photography">Photography</string>
+    <string name="physics">physics</string>
+    <string name="tech">Tech</string>
+
+    <string name="back">Back</string>
+
+
+
+
+</resources>
